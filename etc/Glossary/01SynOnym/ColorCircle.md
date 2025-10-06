@@ -1,0 +1,9 @@
+- ColorCircle
+- 색상환
+- 색상-환
+- 색상ㆍ환
+- [Wiki_ColorCircle](https://ko.wikipedia.org/wiki/%EC%83%89%EC%83%81%ED%99%98)
+- 먼셀 색 체계
+- 먼셀은 미국의 미술학교 교사로 그의 색 체계는 색채 교육의 필요에서 창안되었다고 한다.
+- 먼셀의 이십색상환
+- [NamuWiki_10색상환](https://namu.wiki/w/10%EC%83%89%EC%83%81%ED%99%98)

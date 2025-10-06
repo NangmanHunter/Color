@@ -1,0 +1,18 @@
+- Dark
+- Grey
+- Gray
+- 무채색
+- 무채도색
+- 무ㆍ채도색
+- 무ㆍ채도ㆍ색
+- 어두운
+- 무채색 → achromatic colors
+- achromatic colors
+- Achromatic Colors
+- AchromaticColors
+- achromatic color
+- Achromatic Color
+- AchromaticColor
+- AChromaticColor
+- → 흰색, 검정, 회색 계열처럼 채도(색상)가 없는 색.
+

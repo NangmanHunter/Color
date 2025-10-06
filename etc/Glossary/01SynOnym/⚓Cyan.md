@@ -1,0 +1,7 @@
+- 시안
+- Cyan
+- CyanColor
+- 빨간색(Red) ↔ 청록색(Cyan)
+- 빨간색 반대색
+- 청록색
+- 빨강의 보색은 Cyan

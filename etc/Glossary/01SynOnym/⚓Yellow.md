@@ -1,0 +1,4 @@
+- ⚓Yellow
+- Yellow
+- 노란색
+- 파랑(Blue)의 보색은 노랑(Yellow)

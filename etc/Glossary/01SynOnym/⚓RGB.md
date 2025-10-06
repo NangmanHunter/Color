@@ -1,0 +1,10 @@
+- RGB
+- `RGB`
+- RedGreenBlue
+- RedㆍGreenㆍBlue
+- 디폴트적색=RGB
+- 디폴트색=RGB
+- 기준색=RGB
+- 기준=RGB
+- DefaultColor=RGB
+- Default=RGB

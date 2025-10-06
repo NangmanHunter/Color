@@ -1,0 +1,21 @@
+- Color
+- 색상
+- 채
+- 채도
+- 채도색
+- 채색
+- 유채색
+- 유채도색
+- 유ㆍ채도색
+- 유ㆍ채도ㆍ색
+- 유채색 → chromatic colors (혹은 그냥 colors / colored hues)
+- chromatic colors
+- Chromatic Colors
+- Chromatic Color
+- ChromaticColor
+- 유채색=ChromaticColor
+- 유채색-구글검색=ChromaticColor
+- colors
+- colored hues
+- 📌표현▶️색채학(색채학 용어)에서 공식적으로는 chromatic vs. achromatic 이라고 부릅니다.
+- '크로매틱(Chromatic)'의 사전적 의미는 '색채가 풍부한, 화려한'이며, 음악에서는 '반음계' 또는 '반음계적'인 것을 뜻합니다. 또한 '색 수차(Chromatic Aberration)' 현상에서처럼 렌즈로 인해 색이 분리되는 현상을 의미하기도 합니다. 
