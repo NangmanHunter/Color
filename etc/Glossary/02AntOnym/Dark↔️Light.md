@@ -1,0 +1,3 @@
+- Dark↔️Light
+- DarkTheme↔️LightTheme
+- DarkMode↔️LightMode

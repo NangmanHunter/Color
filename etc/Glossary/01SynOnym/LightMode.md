@@ -1,0 +1,8 @@
+- LightMode
+- LightAppearance
+- LightModeTheme
+- LightTheme
+- Light
+- White
+- WhiteMode
+- 📌Glossary▶️Light>>White

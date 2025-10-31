@@ -1,0 +1,18 @@
+- 명도(Value/Lightness, V)
+- 색의 밝고 어두운 정도를 나타냅니다. 
+- 명도가 낮으면 어둡고, 높으면 밝은 색
+- 명도 (Value / Brightness / Lightness, 명도)
+- 명도
+- Value
+- Brightness
+- `Brightness`
+- Lightness
+- HSL → Lightness
+- HSV → Value
+- 일반 문맥 → Brightness
+- Lightness / Brightness / Value
+- HSL → Lightness, HSV → Value
+- 명도'를 영어로 번역할 때 가장 흔하게 쓰이는 단어는 Brightness 또는 Lightness입니다.
+- [NamuWiki_명도](https://namu.wiki/w/%EB%AA%85%EB%8F%84)
+- [WordReference_명도](https://www.wordreference.com/koen/%EB%AA%85%EB%8F%84)
+

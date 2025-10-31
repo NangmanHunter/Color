@@ -1,0 +1,35 @@
+- ColorGrading
+- 색보정
+- 색보정=ColorGrading
+- 색보정=ColorCorrection<<ColorGrading
+- 색보정(color grading)
+- ColorCorrection
+- ColorCorrectionㆍColorGrading
+- ColorWork=ColorCorrectionㆍColorGrading
+- ColorCorrectionㆍColorGrading=ColorCorrectionㆍColorGrading
+- ColorCorrectionㆍColorGrading=CorrectionㆍGrading
+- ColorCorrectionㆍColorGrading=교정ㆍ보정
+- ColorCorrectionㆍColorGrading=수정ㆍ보정
+- ColorCorrectionㆍColorGrading=객관적ㆍ주관적
+- ColorCorrectionㆍColorGrading=객관적ㆍ의도적
+- ColorCorrectionㆍColorGrading=오류적ㆍ의도적
+- ColorCorrectionㆍColorGrading=비오류적ㆍ의도적
+- ColorCorrectionㆍColorGrading=보정ㆍ보정후작업
+- ColorCorrectionㆍColorGrading=보정ㆍ보정후처리
+- ColorCorrectionㆍColorGrading=보정ㆍ그레이딩
+- ColorCorrectionㆍColorGrading=색상보정ㆍ색상그레이딩
+- 작업순서=ColorCorrection-ColorGrading
+- 작업순서=추상구상-ColorCorrection-ColorGrading
+- ColorCorrection=색교정
+- ColorCorrection=색교정>>색보정
+- ColorCorrection=색보정
+- 색보정은 영어로 Color Correction 또는 Color Grading
+- 색보정은 영어로 Color Correction 또는 Color Grading으로 표현할 수 있으며, 두 단어는 미묘한 차이가 있습니다. 
+- Color Correction: 촬영 원본의 색감 오류(화이트 밸런스, 노출, 채도 등)를 바로잡는 작업입니다.
+- Color Grading: 단순히 색을 보정하는 것을 넘어, 영화의 분위기나 스토리텔링에 맞춰 예술적으로 색감을 연출하는 작업을 의미합니다.
+- 색보정=ColorCorrection + ColorGrading
+- [네이버블로그_색보정](https://blog.naver.com/ensony9148/221999685950)
+- 색상 보정(컬러 캘리브레이션, color calibration)의 목적은 장치(입출력)의 색상 반응을 알려진 상태로 측정 및 조정하는 것
+- [Wiki_색상보정](https://ko.wikipedia.org/wiki/%EC%83%89%EC%83%81_%EB%B3%B4%EC%A0%95)
+- 📌표현▶️색보정
+- 📌표현▶️색보정=ColorCorrection<<ColorGrading
